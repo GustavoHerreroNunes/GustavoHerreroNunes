@@ -2,17 +2,19 @@
 
 >Você pode ler a versão em Inglês do meu README [Clicando Aqui][english].
 
-Me chamo Gustavo Herrero Nunes, moro no Brasil e atualmente sou estudante de Desenvolvimento de Sistemas, em um curso Técnico integrado ao Ensino Médio, na Etec Zona Leste (_São Paulo - SP_).
+Me chamo Gustavo Herrero Nunes, moro no Brasil e sou estudante Técnico em Desenvolvimento de Sistemas, formado em 2021 na Etec Zona Leste (_São Paulo - SP_), e atualmente estou disponível a trabalhar.
 Apesar de ser novo na área de TI, estou gostando muito, e creio que encotrei minha vocação, minha paixão :computer::heart:.
 
-Hoje em dia estou estudando e desenvolvendo Java, Html5, Css3, Javascript, PHP e Arduino.
+Hoje em dia estou estudando e desenvolvendo Html5, Css3, Javascript, PHP, Bootstrap e Cordova.
 
 **Gostaria de me acompanhar nas redes sociais?**:iphone:
 
-[![Facebook](https://img.shields.io/badge/-Facebook-blue?style=flat-square&labelColor=blue&logo=facebook&logoColor=white&link=https://www.facebook.com)][myFace] &nbsp;&nbsp; <!--[![Tinkercad](https://img.shields.io/badge/-Tinkercad-yellow?style=flat-square&labelColor=yellow&link=https://www.tinkercad.com)][myTinker] -->
+[linkedin_badget][linkedin_url]
 
-[english]:README.md
-[myFace]:https://www.facebook.com/neves.nunes.98
-[myTinker]:https://www.tinkercad.com/users/2lFtSPu8Hb1-gustavo-herrero-nunes?category=circuits&sort=likes&view_mode=default
+[portuguese]:README-Portuguese.md
+[linkedin_url]:https://www.linkedin.com/in/gustavo-herrero-nunes-329070212/
+[linkedin_badget]:https://img.shields.io/badge/-Linkedin-blue?style=flat-square&labelColor=informational&logo=linkedin&logoColor=white&link=https://www.linkedin.com
+[tinkercad_url]:https://www.tinkercad.com/users/2lFtSPu8Hb1-gustavo-herrero-nunes?category=circuits&sort=likes&view_mode=default
+[tinercad_url]:https://img.shields.io/badge/-Tinkercad-yellow?style=flat-square&labelColor=yellow&link=https://www.tinkercad.com
 
 

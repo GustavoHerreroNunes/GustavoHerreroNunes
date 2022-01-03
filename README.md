@@ -2,18 +2,20 @@
 
 >You can read the Portuguese version (pt-br) of my README by [Clicking here][portuguese].
 
-My name is Gustavo Herrero Nunes, I am Brazilian and currently I am student of System Development, in a Technical course integrated to high school, at Etec Zona Leste (_São Paulo - SP_).
+My name is Gustavo Herrero Nunes, I am Brazilian and I am a System Development Technician, graduated in 2021 from Etec Zona Leste (_São Paulo - SP_), and currently I am open to work.
 Although I am new in the IT field, I am really enjoying it, and I believe I have found my vocation, my passion :computer::heart:.
 
-Nowadays I am studying and developing Java, Javascript, Html5, Css3, PHP e Arduino.
+Nowadays I am studying and developing Html5, Css3, Javascript, PHP, Bootstrap and Cordova.
 
 **Whould you like to follow me on social media?**:iphone:
 
-[![Facebook](https://img.shields.io/badge/-Facebook-blue?style=flat-square&labelColor=blue&logo=facebook&logoColor=white&link=https://www.facebook.com)][myFace] &nbsp;&nbsp; <!--[![Tinkercad](https://img.shields.io/badge/-Tinkercad-yellow?style=flat-square&labelColor=yellow&link=https://www.tinkercad.com)][myTinker] -->
+[linkedin_badget][linkedin_url]
 
 [portuguese]:README-Portuguese.md
-[myFace]:https://www.facebook.com/neves.nunes.98
-[myTinker]:https://www.tinkercad.com/users/2lFtSPu8Hb1-gustavo-herrero-nunes?category=circuits&sort=likes&view_mode=default
+[linkedin_url]:https://www.linkedin.com/in/gustavo-herrero-nunes-329070212/
+[linkedin_badget]:https://img.shields.io/badge/-Linkedin-blue?style=flat-square&labelColor=informational&logo=linkedin&logoColor=white&link=https://www.linkedin.com
+[tinkercad_url]:https://www.tinkercad.com/users/2lFtSPu8Hb1-gustavo-herrero-nunes?category=circuits&sort=likes&view_mode=default
+[tinercad_url]:https://img.shields.io/badge/-Tinkercad-yellow?style=flat-square&labelColor=yellow&link=https://www.tinkercad.com
 
 <!--
 **GustavoHerreroNunes/GustavoHerreroNunes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
