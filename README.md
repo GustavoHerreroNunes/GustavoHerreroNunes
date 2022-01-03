@@ -7,7 +7,7 @@ Although I am new in the IT field, I am really enjoying it, and I believe I have
 
 Nowadays I am studying and developing Html5, Css3, Javascript, PHP, Bootstrap and Cordova.
 
-**Whould you like to follow me on social media?**:iphone:
+**Would you like to follow me on social media?**:iphone:
 
 [![LinkedIn Profile][linkedin_badget]][linkedin_url]
 
