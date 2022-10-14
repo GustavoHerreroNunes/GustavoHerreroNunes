@@ -1,20 +1,61 @@
-### Olá você! 👋😀
+### Olá você! 👋😀 
+[![Aberto para Trabalhar][open_to_work_badget]][gmail_url]
 
->Você pode ler a versão em Inglês do meu README [Clicando Aqui][english].
+>Você pode ler a [versão em Inglês do meu README][english].
 
-Me chamo Gustavo Herrero Nunes, moro no Brasil e sou estudante Técnico em Desenvolvimento de Sistemas, formado em 2021 na Etec Zona Leste (_São Paulo - SP_), e atualmente estou disponível a trabalhar.
-Apesar de ser novo na área de TI, estou gostando muito, e creio que encotrei minha vocação, minha paixão :computer::heart:.
+Me chamo Gustavo Herrero Nunes, estou me graduando Sistemas de Informação pela [FIAP][fiap_url], sou formado Técnico em Desenvolvimento de Sistemas pela [ETEC][etec_url] e sou apaixonado por TI :computer::heart:.
 
-Hoje em dia estou estudando e desenvolvendo Html5, Css3, Javascript, PHP, Bootstrap e Cordova.
+```javascript
+const Profile = {
+  name: 'Gustavo Herrero Nunes',
+  pronouns: ['ele', 'dele'],
+  thought: 'Planeje - Construa - Teste - Repita',
 
-**Gostaria de me acompanhar nas redes sociais?**:iphone:
+  likes: ['Músicas🎧', 'Jogos🎮', 'Dinossauros🦕'],
+  currentBook: 'A Cidade e As Estrelas',
 
-[![LinkedIn Profile][linkedin_badget]][linkedin_url]
+  tech: {
+    field: 'Web Development',
+    shape: '<T/>',
+    
+    front_end: ['HTML5', 'CSS3', 'JS', 'Bootstrap', 'ReactJS'],
 
+    back_end: ['PHP'],
+
+    database: ['MySQL', 'Clound Firestore'],
+
+    design: ['Usabilidade', 'Acessibilidade']
+  }
+}
+
+```
+
+##### Projetos que estou codando :mag:
+
+[![Card de Projeto][project_1_card]][projetc_1_url]
+
+
+##### Redes sociais :iphone:
+
+[![LinkedIn Profile][linkedin_badget]][linkedin_url] [![Instagram Profile][instagram_badget]][instagram_url] [![Gmail][gmail_badget]][gmail_url]
+
+<!-- Readme -->
 [english]:README.md
-[linkedin_url]:https://www.linkedin.com/in/gustavo-herrero-nunes-329070212/
-[linkedin_badget]:https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&labelColor=informational&logo=linkedin&logoColor=white&link=https://www.linkedin.com
-[tinkercad_url]:https://www.tinkercad.com/users/2lFtSPu8Hb1-gustavo-herrero-nunes?category=circuits&sort=likes&view_mode=default
-[tinercad_url]:https://img.shields.io/badge/-Tinkercad-yellow?style=flat-square&labelColor=yellow&link=https://www.tinkercad.com
 
+<!-- Education -->
+[fiap_url]: https://fiap.com.br/
+[etec_url]: https://www.cps.sp.gov.br/etec/
+
+<!-- Project Card UI -->
+[projetc_1_url]: https://github.com/GustavoHerreroNunes/horta_online
+[project_1_card]: https://github-readme-stats.vercel.app/api/pin/?username=GustavoHerreroNunes&repo=horta_online
+
+<!-- Urls and Badgets -->
+[open_to_work_badget]: https://img.shields.io/badge/-Aberto_para_Trabalhar-success?style=flat-square
+[linkedin_url]:https://www.linkedin.com/in/gustavo-herrero-nunes-329070212/
+[linkedin_badget]:https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&labelColor=informational&logo=linkedin&logoColor=white
+[instagram_url]: https://www.instagram.com/gustavo_herrero_nunes/
+[instagram_badget]: https://img.shields.io/badge/-Instagram-%23E4405F?style=flat-square&logo=instagram&logoColor=white
+[gmail_url]: mailto:ghnunes2010@gmail.com
+[gmail_badget]: https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white
 

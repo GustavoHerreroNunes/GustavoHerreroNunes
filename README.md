@@ -1,33 +1,62 @@
 ### Hello you!👋😀
 
->You can read the Portuguese version (pt-br) of my README by [Clicking here][portuguese].
+[![Open To Work][open_to_work_badget]][gmail_url]
 
-My name is Gustavo Herrero Nunes, I am Brazilian and I am a System Development Technician, graduated in 2021 from Etec Zona Leste (_São Paulo - SP_), and currently I am open to work.
-Although I am new in the IT field, I am really enjoying it, and I believe I have found my vocation, my passion :computer::heart:.
+>You can read [the Portuguese version (pt-br) of my README][portuguese].
 
-Nowadays I am studying and developing Html5, Css3, Javascript, PHP, Bootstrap and Cordova.
+My name is Gustavo Herrero Nunes, I'm graduating in Information Systems by [FIAP][fiap_url], I'm System Development Technician by [ETEC][etec_url] and I'm passionated about IT :computer::heart:.
 
-**Would you like to follow me on social media?**:iphone:
+```javascript
+const Profile = {
+  name: 'Gustavo Herrero Nunes',
+  pronouns: ['he', 'him'],
+  thought: 'Plan - Build - Test - Repeat',
 
-[![LinkedIn Profile][linkedin_badget]][linkedin_url]
+  likes: ['Musics🎧', 'Games🎮', 'Dinosaurs🦕'],
+  currentBook: 'The City and The Stars',
 
-[portuguese]:README-Portuguese.md
+  tech: {
+    field: 'Web Development',
+    shape: '<T/>',
+    
+    front_end: ['HTML5', 'CSS3', 'JS', 'Bootstrap', 'ReactJS'],
+
+    back_end: ['PHP'],
+
+    database: ['MySQL', 'Clound Firestore'],
+
+    design: ['Usability', 'Accessibility']
+  }
+}
+
+```
+
+##### Projects I'm working on :mag:
+
+[![Card de Projeto][project_1_card]][projetc_1_url]
+
+
+##### Social medias :iphone:
+
+[![LinkedIn Profile][linkedin_badget]][linkedin_url] [![Instagram Profile][instagram_badget]][instagram_url] [![Gmail][gmail_badget]][gmail_url]
+
+<!-- Readme -->
+[english]:README.md
+
+<!-- Education -->
+[fiap_url]: https://fiap.com.br/
+[etec_url]: https://www.cps.sp.gov.br/etec/
+
+<!-- Project Card UI -->
+[projetc_1_url]: https://github.com/GustavoHerreroNunes/horta_online
+[project_1_card]: https://github-readme-stats.vercel.app/api/pin/?username=GustavoHerreroNunes&repo=horta_online
+
+<!-- Urls and Badgets -->
+[open_to_work_badget]: https://img.shields.io/badge/-Open_To_Work-success?style=flat-square
 [linkedin_url]:https://www.linkedin.com/in/gustavo-herrero-nunes-329070212/
-[linkedin_badget]:https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&labelColor=informational&logo=linkedin&logoColor=white&link=https://www.linkedin.com
-[tinkercad_url]:https://www.tinkercad.com/users/2lFtSPu8Hb1-gustavo-herrero-nunes?category=circuits&sort=likes&view_mode=default
-[tinercad_url]:https://img.shields.io/badge/-Tinkercad-yellow?style=flat-square&labelColor=yellow&link=https://www.tinkercad.com
-
-<!--
-**GustavoHerreroNunes/GustavoHerreroNunes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[linkedin_badget]:https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&labelColor=informational&logo=linkedin&logoColor=white
+[instagram_url]: https://www.instagram.com/gustavo_herrero_nunes/
+[instagram_badget]: https://img.shields.io/badge/-Instagram-%23E4405F?style=flat-square&logo=instagram&logoColor=white
+[gmail_url]: mailto:ghnunes2010@gmail.com
+[gmail_badget]: https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white
+[portuguese]:README-Portuguese.md
