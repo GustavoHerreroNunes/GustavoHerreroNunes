@@ -1,4 +1,4 @@
-### Hello you!👋😀
+## Hello you!👋😀
 
 [![Open To Work][open_to_work_badget]][gmail_url]
 
@@ -31,12 +31,12 @@ const Profile = {
 
 ```
 
-##### Projects I'm working on :mag:
+#### Projects I'm working on :mag:
 
 [![Card de Projeto][project_1_card]][projetc_1_url]
 
 
-##### Social medias :iphone:
+#### Social medias :iphone:
 
 [![LinkedIn Profile][linkedin_badget]][linkedin_url] [![Instagram Profile][instagram_badget]][instagram_url] [![Gmail][gmail_badget]][gmail_url]
 

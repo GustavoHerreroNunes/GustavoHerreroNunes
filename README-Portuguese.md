@@ -1,4 +1,4 @@
-### Olá você! 👋😀 
+## Olá você! 👋😀 
 [![Aberto para Trabalhar][open_to_work_badget]][gmail_url]
 
 >Você pode ler a [versão em Inglês do meu README][english].
@@ -30,12 +30,12 @@ const Profile = {
 
 ```
 
-##### Projetos que estou codando :mag:
+#### Projetos que estou codando :mag:
 
 [![Card de Projeto][project_1_card]][projetc_1_url]
 
 
-##### Redes sociais :iphone:
+#### Redes sociais :iphone:
 
 [![LinkedIn Profile][linkedin_badget]][linkedin_url] [![Instagram Profile][instagram_badget]][instagram_url] [![Gmail][gmail_badget]][gmail_url]
 
