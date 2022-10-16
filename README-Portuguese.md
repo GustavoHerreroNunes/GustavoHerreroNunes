@@ -32,7 +32,12 @@ const Profile = {
 
 #### Projetos que estou codando :mag:
 
-[![Card de Projeto][project_1_card]][projetc_1_url]
+<a href="https://github.com/GustavoHerreroNunes/horta_online">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=GustavoHerreroNunes&repo=horta_online">
+</a>
+<a href="https://github.com/GustavoHerreroNunes/easy_pomodoro">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=GustavoHerreroNunes&repo=easy_pomodoro">
+</a>
 
 
 #### Redes sociais :iphone:

@@ -33,7 +33,12 @@ const Profile = {
 
 #### Projects I'm working on :mag:
 
-[![Card de Projeto][project_1_card]][projetc_1_url]
+<a href="https://github.com/GustavoHerreroNunes/horta_online">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=GustavoHerreroNunes&repo=horta_online">
+</a>
+<a href="https://github.com/GustavoHerreroNunes/easy_pomodoro">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=GustavoHerreroNunes&repo=easy_pomodoro">
+</a>
 
 
 #### Social medias :iphone:
@@ -50,6 +55,8 @@ const Profile = {
 <!-- Project Card UI -->
 [projetc_1_url]: https://github.com/GustavoHerreroNunes/horta_online
 [project_1_card]: https://github-readme-stats.vercel.app/api/pin/?username=GustavoHerreroNunes&repo=horta_online
+[projetc_2_url]: https://github.com/GustavoHerreroNunes/easy_pomodoro
+[project_2_card]: https://github-readme-stats.vercel.app/api/pin/?username=GustavoHerreroNunes&repo=easy_pomodoro
 
 <!-- Urls and Badgets -->
 [open_to_work_badget]: https://img.shields.io/badge/-Open_To_Work-success?style=flat-square
