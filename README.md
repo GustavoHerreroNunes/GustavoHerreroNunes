@@ -39,6 +39,9 @@ const Profile = {
 <a href="https://github.com/GustavoHerreroNunes/easy_pomodoro">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=GustavoHerreroNunes&repo=easy_pomodoro">
 </a>
+<a href="https://github.com/gpado/webnews-em-php">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=gpado&repo=webnews-em-php">
+</a>
 
 
 #### Social medias :iphone:
