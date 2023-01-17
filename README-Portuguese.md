@@ -12,7 +12,8 @@ const Profile = {
   thought: 'Planeje - Construa - Teste - Repita',
 
   likes: ['Músicas🎧', 'Jogos🎮', 'Dinossauros🦕'],
-  currentBook: 'A Cidade e As Estrelas',
+  currentBook: 'O Mundo Sem Nós - Alan Weisman',
+  currentSeries: 'The Last Of Us - HBO',
 
   tech: {
     field: 'Web Development',
