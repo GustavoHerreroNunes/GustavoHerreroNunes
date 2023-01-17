@@ -13,8 +13,9 @@ const Profile = {
   thought: 'Plan - Build - Test - Repeat',
 
   likes: ['Musics🎧', 'Games🎮', 'Dinosaurs🦕'],
-  currentBook: 'The City and The Stars',
-
+  currentBook: 'The World Without Us - Alan Weisman',
+  currentSeries: 'The Last Of Us - HBO',
+  
   tech: {
     field: 'Web Development',
     shape: '<T/>',
