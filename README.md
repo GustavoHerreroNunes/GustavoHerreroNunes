@@ -34,9 +34,6 @@ const Profile = {
 
 #### Projects I'm working on :mag:
 
-<a href="https://github.com/GustavoHerreroNunes/easy_pomodoro">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=GustavoHerreroNunes&repo=easy_pomodoro">
-</a>
 <a href="https://github.com/GustavoHerreroNunes/horta_online">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=GustavoHerreroNunes&repo=horta_online">
 </a>
