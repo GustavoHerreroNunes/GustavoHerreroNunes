@@ -33,8 +33,11 @@ const Profile = {
 
 #### Projetos que estou codando :mag:
 
-<a href="https://github.com/GustavoHerreroNunes/horta_online">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=GustavoHerreroNunes&repo=horta_online">
+<a href="https://github.com/GustavoHerreroNunes/portfolio">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=GustavoHerreroNunes&repo=portfolio">
+</a>
+<a href="https://github.com/GustavoHerreroNunes/goDigitalCode">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=GustavoHerreroNunes&repo=goDigitalCode">
 </a>
 
 #### Redes sociais :iphone:
