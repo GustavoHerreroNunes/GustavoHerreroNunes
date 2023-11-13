@@ -9,7 +9,7 @@ Me chamo Gustavo Herrero Nunes, estou me graduando Sistemas de Informação pela
 const Profile = {
   name: 'Gustavo Herrero Nunes',
   pronouns: ['ele', 'dele'],
-  thought: 'Plan - Code - Test - Repeat'
+  thought: 'Plan - Code - Test - Repeat',
   slogan: 'Turning Ideas into Reality',
 
   likes: ['Músicas🎧', 'Jogos🎮', 'Dinossauros🦕'],

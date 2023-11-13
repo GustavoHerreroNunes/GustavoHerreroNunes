@@ -10,7 +10,7 @@ My name is Gustavo Herrero Nunes, I'm graduating in Information Systems by [FIAP
 const Profile = {
   name: 'Gustavo Herrero Nunes',
   pronouns: ['he', 'him'],
-  thought: 'Plan - Code - Test - Repeat'
+  thought: 'Plan - Code - Test - Repeat',
   slogan: 'Turning Ideas into Reality',
 
   likes: ['Musics🎧', 'Games🎮', 'Dinosaurs🦕'],
