@@ -14,7 +14,7 @@ const Profile = {
   slogan: 'Turning Ideas into Reality',
 
   likes: ['Musics🎧', 'Games🎮', 'Dinosaurs🦕'],
-  currentBook: 'Rendezvous with Rama - Arthur C. Clarke',
+  currentBook: "Anne Frank's Diary",
   
   tech: {
     field: 'Web Development',
@@ -34,11 +34,11 @@ const Profile = {
 
 #### Projects I'm working on :mag:
 
-<a href="https://github.com/GustavoHerreroNunes/portfolio">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=GustavoHerreroNunes&repo=portfolio">
+<a href="https://github.com/GustavoHerreroNunes/AQMoni">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=GustavoHerreroNunes&repo=AQMoni">
 </a>
-<a href="https://github.com/GustavoHerreroNunes/training-data-stuctures">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=GustavoHerreroNunes&repo=training-data-stuctures">
+<a href="https://github.com/GustavoHerreroNunes/android_codespace_test">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=GustavoHerreroNunes&repo=android_codespace_test">
 </a>
 
 
