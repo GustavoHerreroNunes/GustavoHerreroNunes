@@ -13,7 +13,7 @@ const Profile = {
   slogan: 'Turning Ideas into Reality',
 
   likes: ['Músicas🎧', 'Jogos🎮', 'Dinossauros🦕'],
-  currentBook: 'Rendezvous with Rama - Arthur C. Clarke',
+  currentBook: "O Diário de Anne Frank",
 
   tech: {
     field: 'Web Development',
@@ -33,11 +33,11 @@ const Profile = {
 
 #### Projetos que estou codando :mag:
 
-<a href="https://github.com/GustavoHerreroNunes/portfolio">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=GustavoHerreroNunes&repo=portfolio">
+<a href="https://github.com/GustavoHerreroNunes/AQMoni">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=GustavoHerreroNunes&repo=AQMoni">
 </a>
-<a href="https://github.com/GustavoHerreroNunes/training-data-stuctures">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=GustavoHerreroNunes&repo=training-data-stuctures">
+<a href="https://github.com/GustavoHerreroNunes/android_codespace_test">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=GustavoHerreroNunes&repo=android_codespace_test">
 </a>
 
 #### Redes sociais :iphone:
